@@ -32,7 +32,7 @@ This is a fully functional **Online Bookstore Web Application** built using HTML
 
 1. Copy the project folder into your `htdocs` (if using XAMPP).
 2. Open **XAMPP** or **WAMP** → Start **Apache** and **MySQL**.
-3. Open your browser and go to: http://localhost/online-bookstore/
+3. Open your browser and go to: http://localhost:8000/login.php
 4. Open **phpMyAdmin** and:
 - Create a new database (e.g. `online_bookstore`)
 - Import the file `shop_db.sql`
