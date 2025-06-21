@@ -33,11 +33,23 @@ This is a fully functional **Online Bookstore Web Application** built using HTML
 1. Copy the project folder into your `htdocs` (if using XAMPP).
 2. Open **XAMPP** or **WAMP** → Start **Apache** and **MySQL**.
 3. Open your browser and go to: http://localhost/online-bookstore/
-
 4. Open **phpMyAdmin** and:
 - Create a new database (e.g. `online_bookstore`)
 - Import the file `shop_db.sql`
 5. Done! You can now browse, shop, and manage books.
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png)
+
+### 🛒 Cart Page
+![Cart](screenshots/cart.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Panel](screenshots/admin.png)
 
 ---
 
@@ -56,5 +68,4 @@ This project is open source under the [MIT License](LICENSE)
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
-
 
